@@ -11,7 +11,7 @@ In project we focus on Azure Cloud - we use:
 * PowerBI 
 
 ## Project MVP:
-Two services, first one MVC application based on azure app service - backend in .NET Core. Application is integrated with https://openweathermap.org/api, where we have storage all countries by iso and one more storage - azure sql database, where we have storage cities. Cities and countries is for autocomplete users input(requirement of project, for fetching data from two storages). When user pick country and city(please wait for autocomplete), we additionally send this data to the azure queue stoarage. Second service, counsme the message from queue, and add this data to the azue sql database. The data are necessary for generating Power BI reports about searching countries, cities weather.
+Two services, first one MVC application based on azure app service - backend in .NET Core. Application is integrated with https://openweathermap.org/api, azure blob storage, where we have storage all countries by iso and one more storage - azure sql database, where we have storage cities. Cities and countries is for autocomplete users input(requirement of project, for fetching data from two storages). When user pick country and city(please wait for autocomplete), we additionally send this data to the azure queue stoarage. Second service, counsme the message from queue, and add this data to the azue sql database. The data are necessary for generating Power BI reports about searching countries, cities weather.
 
 ## http://przetwarzanierozproszoneprojekt1.azurewebsites.net/
 
