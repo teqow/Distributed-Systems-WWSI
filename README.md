@@ -23,3 +23,5 @@ Two services, first one MVC application based on azure app service - backend in 
 ![81445043_619661498862682_9055699425606762496_n](https://user-images.githubusercontent.com/36841282/71779941-35ba9980-2fbc-11ea-9ad8-ee7dd6c15d9f.png)
 
 ![81901797_2759258034117111_5365350258006032384_n](https://user-images.githubusercontent.com/36841282/71779952-5256d180-2fbc-11ea-8582-604964fe8523.png)
+
+Autors: Leszek Klupiński, Bartosz Skowronek
