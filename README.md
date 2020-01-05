@@ -5,7 +5,7 @@ In project we focus on Azure Cloud - we use:
 * Azure App Service
 * Azure SQL Database
 * Azure Blob Storage 
-* Azure Queue storage
+* Azure Queue Storage
 
 * .NET Core 2.2, EF Core 3.1
 * PowerBI 
